@@ -1,0 +1,16 @@
+torch==2.4.1 
+torchaudio
+tensorboard
+tqdm
+datasets==2.14.6
+ffmpeg
+transformers==4.51.1
+librosa
+evaluate==0.4.3
+jiwer
+gradio
+accelerate
+bitsandbytes
+peft
+s3fs
+accelerate
